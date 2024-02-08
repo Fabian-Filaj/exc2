@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about-us{
+    width: 80%;
+    margin: 0 auto;
+}
+.about-us h1{
+    margin-bottom: 20px;
+}
+.about-us p{
+    margin: 20px 0px;
+}
